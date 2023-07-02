@@ -6,4 +6,3 @@ for numeros in numeros:
 
 for numeros in range(1,40):
     print(numeros)
-
